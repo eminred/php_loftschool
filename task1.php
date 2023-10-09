@@ -1,8 +1,8 @@
 <?php
-$name = 'Андрей';
-$age = '24';
+$name = '"Эмин"';
+$age = '31';
 
 echo "Меня зовут: $name <br>";
-echo "Мне $age года <br>";
+echo "Мне $age год <br>";
 echo '"!|/\'"\\';
 ?>
