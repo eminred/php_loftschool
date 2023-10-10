@@ -92,7 +92,7 @@ function task5() {
 ///Task 6
 
 function task6($file) {
-  file_put_contents('text.txt', 'Hello again!');
+  file_put_contents('text.txt', ' Hello again!');
   $fp = fopen($file, 'r');
 
   $str = '';
